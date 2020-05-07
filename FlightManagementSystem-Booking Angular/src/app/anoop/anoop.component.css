@@ -1,0 +1,15 @@
+body {
+    font-family: 'Muli', serif;
+    font-size: 15px;
+  }
+  .normal_font{
+    color:#28527A;
+    font-size:30px;
+  }
+  #gray_font{
+    background-color: #424242;
+    color: white;
+    font-size:20px;
+  }
+ 
+  
